@@ -10,6 +10,7 @@ module CXML
       buyer_cookie
       extrinsics
       browser_form_post
+      selected_item
       supplier_setup
       ship_to
       contact

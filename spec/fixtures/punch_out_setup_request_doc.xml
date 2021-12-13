@@ -27,6 +27,11 @@
     http://localhost:3000
   </URL>
 </SupplierSetup>
+  <SelectedItem>
+   <ItemID>
+    <SupplierPartID>SomeItemID</SupplierPartID>
+   </ItemID>
+  </SelectedItem>
 </PunchOutSetupRequest>
 </Request>
 </cXML>
