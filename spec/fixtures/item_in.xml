@@ -9,4 +9,8 @@
     <UnitPrice> <Money currency="GBP">5.35</Money> </UnitPrice>
     <Classification domain="UNSPSC">44000000</Classification>
   </ItemDetail>
+  <Shipping>
+    <Money currency="JPY">0.00</Money>
+    <Description xml:lang="en">description</Description>
+  </Shipping>
 </ItemIn>
