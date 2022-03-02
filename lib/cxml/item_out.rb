@@ -12,6 +12,8 @@ module CXML
       item_detail
       distribution
       comments
+      shipping
+      tax
     ]
   end
 end
